@@ -1,5 +1,5 @@
 👋 About Me:
-With a diverse background spanning software engineering and product management, I bring over three years of experience in driving innovation and delivering robust solutions in the technology sector. I have worked on a diverse array of products, from e-commerce SaaS to CRM and aPaaS micro-services, which enables me to draw from varied experiences to develop a keen business sense and effectively plan and build B2B & B2C products.
+With a diverse background spanning software engineering and product management, I bring over four years of experience in driving innovation and delivering robust solutions in the technology sector. I have worked on a diverse array of products, from e-commerce SaaS to CRM and aPaaS micro-services, which enables me to draw from varied experiences to develop a keen business sense and effectively plan and build B2B & B2C products.
 
 🌟 More About Me:
 My strong sense of empathy enables me to connect deeply with others. Building strong relationships with both users and colleagues is essential to me. Through meaningful team collaboration, I strive to build products that resonate with our clients and effectively solve their business needs.
